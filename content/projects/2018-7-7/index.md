@@ -1,5 +1,5 @@
 ---
-client: "NBA"
+client: "College Basketball"
 title: "2018 Duke Canada Tour"
 cover: "./Duke.jpg"
 date: "2018-07-07"

@@ -3,7 +3,7 @@ client: "NBA"
 title: "NBA 2018 Draft Pick Hypothesis"
 cover: "./2018Draft.jpg"
 date: "2018-06-06"
-service: "2018 Draft Pick"
+service: "All"
 ---
 # NBA 2018 Draft Pick Hypothesis
 

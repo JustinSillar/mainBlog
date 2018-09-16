@@ -1,5 +1,5 @@
 ---
-client: "NBA"
+client: "College Basketball"
 title: "2018 Kentucky Wildcats Bahamas Foreign Tour"
 cover: "./Kentucky.jpg"
 date: "2018-09-09"
@@ -37,7 +37,7 @@ Tyler Herro is a walking bucket. Interchangeable at the two or three, he can sco
 
 This team’s version of Draymond Green, P.J. Washington does it all for the Kentucky Wildcats. Defensively active hands lead to steals and blocks, can find the open man for assists and clean the glass for boards. Doesn’t have the vision or passing accuracy of Draymond but is a threat to be a playmaker. Aggressive on the boards and looking to expand his offensive game by shooting the three, P.J. has improved immensely no longer looking lost at times. Free throws is still an issue for improvement on as he will be a key cog in the frontcourt.
 
-Standford transfer graduate Travis Reid is a man. NBA/grown man strength improves the Wildcats interior defense. Won’t be an offensive force like Embiid or Towns but has a very quick spin move or left shoulder turn around right hand layup to get easy baskets. However main purpose is to impose his strength and clean the boards for Kentucky.
+Stanford transfer graduate Travis Reid is a man. NBA/grown man strength improves the Wildcats interior defense. Won’t be an offensive force like Embiid or Towns but has a very quick spin move or left shoulder turn around right hand layup to get easy baskets. However main purpose is to impose his strength and clean the boards for Kentucky.
 
 <b>Centers:</b>
 
