@@ -31,6 +31,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
+            date
             service
             client
             cover {

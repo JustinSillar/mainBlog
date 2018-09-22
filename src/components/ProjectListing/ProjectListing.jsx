@@ -39,9 +39,12 @@ export default class ProjectListing extends React.PureComponent {
                 <div className={styles.service} key={project.service}>
                   {project.service}
                 </div>
-                <div className={styles.service} key={project.service}>
+                <div className={styles.date} key={project.date}>
                   {project.date}
                 </div>
+
+
+
               </Link>
             </div>
           </div>
